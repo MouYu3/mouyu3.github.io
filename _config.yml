@@ -79,5 +79,5 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/MouYu3/mouyu3.github.io.git
+  repo: git@github.com:MouYu3/mouyu3.github.io.git
 branch: master

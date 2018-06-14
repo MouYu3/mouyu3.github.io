@@ -63,8 +63,8 @@ share: false
 # 是否开启打赏，关闭 reward: false
 reward:
   title: 谢谢大爷~
-  wechat: http://pa3xlarvv.bkt.clouddn.com/wechat-pay-200x200.png    #微信，关闭设为 false
-  alipay: http://pa3xlarvv.bkt.clouddn.com/alipay-200x200.jpg     #支付宝，关闭设为 false
+  wechat: https://wx4.sinaimg.cn/large/006fVPCvly1fsab4esxolj30d60cogpp.jpg    #微信，关闭设为 false
+  alipay: https://wx1.sinaimg.cn/large/006fVPCvly1fsab426qe8j30ip0ipn31.jpg     #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
@@ -136,7 +136,7 @@ canonical: false
 since_year: 2017
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: 用户页面中作者相关的描述性文字，如不需要设为 false
+about: false
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:

@@ -4,27 +4,8 @@
 
     
   <url>
-    <loc>http://mouyu.date/2018/06/2018-06-12-ci-test/</loc>
-    <lastmod>2018-06-13T20:09:51.537Z</lastmod>
-    <data>
-        <display>
-        <title>ci 自动部署测试</title>
-        <pubTime>2018-06-12T04:30:00.000Z</pubTime>
-        
-        <tag>net</tag>
-         
-        <tag>test</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://mouyu.date/2018/06/2018-06-09-fuxk-gfw/</loc>
-    <lastmod>2018-06-13T18:49:19.897Z</lastmod>
+    <lastmod>2018-06-14T10:28:47.686Z</lastmod>
     <data>
         <display>
         <title>Fuxk GFW</title>
@@ -36,16 +17,45 @@
          
          
            
+             
+              <breadCrumb title="碎碎念" url="http://mouyu.date/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+          
+             
+              <breadCrumb title="GFW" url="http://mouyu.date/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/GFW/"/>
+          
         </display>
     </data>
     </url>
 
     
-    
+  <url>
+    <loc>http://mouyu.date/2018/06/2018-06-12-ci-test/</loc>
+    <lastmod>2018-06-14T10:28:36.252Z</lastmod>
+    <data>
+        <display>
+        <title>ci 自动部署测试</title>
+        <pubTime>2018-06-12T04:30:00.000Z</pubTime>
+        
+        <tag>net</tag>
+         
+        <tag>test</tag>
+         
+         
+           
+             
+              <breadCrumb title="随记" url="http://mouyu.date/categories/%E9%9A%8F%E8%AE%B0/"/>
+          
+             
+              <breadCrumb title="建站" url="http://mouyu.date/categories/%E9%9A%8F%E8%AE%B0/%E5%BB%BA%E7%AB%99/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://mouyu.date/2018/06/2018-06-07-gaokao-2018/</loc>
-    <lastmod>2018-06-13T18:49:19.896Z</lastmod>
+    <lastmod>2018-06-14T10:19:00.167Z</lastmod>
     <data>
         <display>
         <title>为了弥补自己没上大学的遗憾，我参加了2018年高考。</title>
@@ -55,8 +65,17 @@
          
          
            
+             
+              <breadCrumb title="日志" url="http://mouyu.date/categories/%E6%97%A5%E5%BF%97/"/>
+          
+             
+              <breadCrumb title="生活" url="http://mouyu.date/categories/%E6%97%A5%E5%BF%97/%E7%94%9F%E6%B4%BB/"/>
+          
         </display>
     </data>
     </url>
 
+    
+    
+    
 </urlset>
